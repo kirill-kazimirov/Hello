@@ -1,7 +1,7 @@
 package by.newhardskills;
 
-public class MainGit {
+public class MainGitBig {
     public static void main(String[] args) {
-        System.out.println("Hello Git Big");
+        System.out.println("New File");
     }
 }
